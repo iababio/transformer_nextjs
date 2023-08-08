@@ -1,5 +1,5 @@
 ---
-title: Next Server Example App
+title: Next Server App
 emoji: 🔥
 colorFrom: yellow
 colorTo: red
